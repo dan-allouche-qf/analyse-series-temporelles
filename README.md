@@ -2,6 +2,8 @@
 
 **Projet d'Économétrie Appliquée**
 
+**Auteur :** Dan Allouche
+
 ---
 
 ## Présentation du projet
